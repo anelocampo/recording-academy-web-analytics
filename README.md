@@ -7,6 +7,8 @@ This project analyzes website engagement metrics using Microsoft Excel to evalua
 Using key performance indicators (KPIs), PivotTables, charts, and data visualization techniques, I identified engagement trends and developed data-driven recommendations to improve website performance and user experience.
 
 ---
+
+
 ## 🎯 Objective
 
 Use website analytics to identify engagement trends and provide recommendations that support data-driven decision making.
