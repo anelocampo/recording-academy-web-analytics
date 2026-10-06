@@ -5,6 +5,8 @@
 This project analyzes website engagement metrics using Microsoft Excel to evaluate user behavior before and after organizational changes within the Recording Academy.
 
 Using key performance indicators (KPIs), PivotTables, charts, and data visualization techniques, I identified engagement trends and developed data-driven recommendations to improve website performance and user experience.
+### Project Workbook
+![Project Overview](project-overview-2.png)
 
 ---
 
@@ -25,6 +27,13 @@ Metrics analyzed included:
 - Bounce Rate
 - Average Session Duration
 - Mobile Traffic
+
+### Grammys Dataset
+![Grammys Dataset](grammys-data-2.png)
+
+### Recording Academy Dataset
+![Recording Academy Dataset](recording-academy-data-2.png)
+
 ---
 
 ## 🛠 Tools Used
@@ -69,6 +78,13 @@ The analysis focused on answering the following business questions:
 - Identified changes in bounce rate, pages per session, and average session duration.
 - Used PivotTables and charts to communicate trends effectively.
 - Developed recommendations supported by quantitative analysis.
+
+### Vistor Trend Analysis
+![Visitor Trends](vistors-trends-2.png)
+
+### KPI Analysis
+![KPI Analysis](kpi-analysis-2.png)
+
 ---
 
 ## 📂 Repository Contents
