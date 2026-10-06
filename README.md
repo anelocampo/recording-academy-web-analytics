@@ -1,11 +1,28 @@
-# 🎵 Recording Academy Web Analytics
+# 🎵 Recording Academy Website Analytics Dashboard
 
 ## 📖 Project Overview
 
-This project explores website engagement metrics using Microsoft Excel to understand user behavior and evaluate website performance before and after organizational changes.
+This project analyzes website engagement metrics using Microsoft Excel to evaluate user behavior before and after organizational changes within the Recording Academy.
 
-The project focuses on analyzing key performance indicators (KPIs), identifying trends, and communicating data-driven recommendations through dashboards and visualizations.
+Using key performance indicators (KPIs), PivotTables, charts, and data visualization techniques, I identified engagement trends and developed data-driven recommendations to improve website performance and user experience.
 
+---
+## 🎯 Objective
+
+Use website analytics to identify engagement trends and provide recommendations that support data-driven decision making.
+---
+
+## 📂 Dataset
+
+The dataset contained website engagement metrics collected before and after organizational changes.
+
+Metrics analyzed included:
+
+- Website Visitors
+- Pages per Session
+- Bounce Rate
+- Average Session Duration
+- Mobile Traffic
 ---
 
 ## 🛠 Tools Used
@@ -34,7 +51,7 @@ The project focuses on analyzing key performance indicators (KPIs), identifying 
 
 ## ❓ Business Questions
 
-This project investigates questions such as:
+The analysis focused on answering the following business questions:
 
 - How did website engagement change?
 - How did bounce rate compare across websites?
@@ -47,22 +64,26 @@ This project investigates questions such as:
 ## 📈 Key Findings
 
 - Compared website performance using engagement KPIs.
-- Evaluated bounce rate and average session duration.
-- Used PivotTables and charts to communicate trends.
+- Identified changes in bounce rate, pages per session, and average session duration.
+- Used PivotTables and charts to communicate trends effectively.
 - Developed recommendations supported by quantitative analysis.
-
 ---
 
-## 📂 Project Files
+## 📂 Repository Contents
 
-- Excel Workbook
-- Project Report
-- Dashboard Visualizations
-
-*(Files will be uploaded soon.)*
-
+-README Documentation
+- Excel Workbook *(Coming Soon)*
+- Dashboard Screenshots *(Coming Soon)*
+- Project Report *(Coming Soon)*
 ---
 
-## 🚀 What I Learned
+## 💡 Key Takeaways
 
-This project strengthened my ability to clean data, analyze business metrics, create visualizations, and communicate analytical findings to support data-driven decision making.
+Through this project I strengthened my ability to:
+
+- Analyze website analytics data
+- Build PivotTables and dashboards
+- Interpret KPIs
+- Communicate analytical findings
+- Support business decisions using data
+
